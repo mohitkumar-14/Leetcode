@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mohitkumar-14/Leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mohitkumar-14/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
