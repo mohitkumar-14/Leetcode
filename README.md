@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohitkumar-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohitkumar-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0860-lemonade-change) |
 ## Linked List
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohitkumar-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
