@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
