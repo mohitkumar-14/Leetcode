@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohitkumar-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
