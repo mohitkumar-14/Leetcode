@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohitkumar-14/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mohitkumar-14/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohitkumar-14/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/mohitkumar-14/Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohitkumar-14/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
