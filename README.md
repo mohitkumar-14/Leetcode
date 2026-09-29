@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/mohitkumar-14/Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
