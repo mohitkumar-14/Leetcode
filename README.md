@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohitkumar-14/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mohitkumar-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mohitkumar-14/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohitkumar-14/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mohitkumar-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mohitkumar-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/mohitkumar-14/Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/mohitkumar-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/mohitkumar-14/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/mohitkumar-14/Leetcode/tree/master/0853-car-fleet) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mohitkumar-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumar-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
