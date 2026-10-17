@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mohitkumar-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumar-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/mohitkumar-14/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohitkumar-14/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mohitkumar-14/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/mohitkumar-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohitkumar-14/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
 ## String
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mohitkumar-14/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/mohitkumar-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohitkumar-14/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/mohitkumar-14/Leetcode/tree/master/0853-car-fleet) |
