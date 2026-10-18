@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mohitkumar-14/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0853-car-fleet](https://github.com/mohitkumar-14/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohitkumar-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohitkumar-14/Leetcode/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohitkumar-14/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/mohitkumar-14/Leetcode/tree/master/0260-single-number-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
