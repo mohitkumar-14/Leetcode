@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohitkumar-14/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/mohitkumar-14/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/mohitkumar-14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mohitkumar-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
@@ -192,9 +194,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
