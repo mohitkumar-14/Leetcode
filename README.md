@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mohitkumar-14/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0853-car-fleet](https://github.com/mohitkumar-14/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/mohitkumar-14/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumar-14/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohitkumar-14/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/mohitkumar-14/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0860-lemonade-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/mohitkumar-14/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohitkumar-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohitkumar-14/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mohitkumar-14/Leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/mohitkumar-14/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitkumar-14/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohitkumar-14/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohitkumar-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/mohitkumar-14/Leetcode/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/mohitkumar-14/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mohitkumar-14/Leetcode/tree/master/0322-coin-change) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/mohitkumar-14/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
